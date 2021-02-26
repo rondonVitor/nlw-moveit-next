@@ -1,7 +1,7 @@
 import '../styles/global.css';
-
-import { ChallengesProvider } from '../contexts/ChallengesContext'
 import React from 'react';
+
+import { ChallengesProvider } from '../contexts/ChallengesContext';
 
 function MyApp({ Component, pageProps }) {
 
